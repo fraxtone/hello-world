@@ -1,5 +1,4 @@
 # hello-world
-gg ez noob
 
 
 Hello World! or mundo in spanish!
